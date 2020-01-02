@@ -515,7 +515,7 @@ button:focus {
 }
 
 .blog_banner .banner_inner .overlay {
-  background: url(../img/banner/group-pic.jpg) no-repeat scroll center center;
+  background: url(../img/banner/group-photo.jpg) no-repeat scroll center center;
   opacity: .5;
   height: 125%;
 }
@@ -556,7 +556,7 @@ button:focus {
 }
 
 .banner_area .banner_inner .overlay {
-  background: url(../img/banner/p1.jpg) no-repeat scroll center center;
+  background: url(../img/banner/team.jpg) no-repeat scroll center center;
   position: absolute;
   left: 0;
   right: 0;
