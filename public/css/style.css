@@ -2242,6 +2242,7 @@ button:focus {
 
 .clients_logo_area .clients_slider .item {
   text-align: center;
+  
 }
 
 .clients_logo_area .clients_slider .item img {
@@ -2277,7 +2278,7 @@ button:focus {
 .single-footer-widget ul li a {
   line-height: 25px;
   display: inline-block;
-  color: #777;
+  color: #fff;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;

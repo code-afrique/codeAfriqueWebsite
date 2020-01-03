@@ -128,7 +128,7 @@
     function clients_slider(){
         if ( $('.clients_slider').length ){
             $('.clients_slider').owlCarousel({
-                loop:true,
+                loop:false,
                 margin: 30,
                 items: 5,
                 nav: false,
