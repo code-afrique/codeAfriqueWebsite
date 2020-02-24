@@ -457,7 +457,7 @@ button:focus {
 }
 
 .home_banner_area .banner_inner .overlay {
-  background: url(../img/banner/group-photo.jpg) no-repeat scroll center center;
+  background: url(../img/banner/group-pic-2020.jpg) no-repeat scroll center center;
   position: absolute;
   background-size: 100%;
   left: 0;
@@ -485,6 +485,10 @@ button:focus {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   margin-bottom: 20px;
+  /* background: rgba(57, 57, 59, 0.5); */
+  color:white;
+  text-shadow: 2px 2px 4px #000000;
+  /* -webkit-text-stroke: 2px black; */
 }
 
 .home_banner_area .banner_inner .banner_content p {
@@ -2084,12 +2088,12 @@ button:focus {
   transition: all 300ms linear 0s;
 }
 
-.event_item .media .media-body h4:hover {
+/* .event_item .media .media-body h4:hover {
   color: #ea2c58;
-}
+} */
 
 .event_item .media .media-body p {
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 .event_main_area .event_main_inner {
