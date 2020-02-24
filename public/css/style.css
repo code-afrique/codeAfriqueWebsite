@@ -2088,9 +2088,22 @@ button:focus {
   transition: all 300ms linear 0s;
 }
 
-/* .event_item .media .media-body h4:hover {
+.event_item .media .media-body h5 {
+  color: #222222;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  padding-right: 50px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  -webkit-transition: all 300ms linear 0s;
+  -o-transition: all 300ms linear 0s;
+  transition: all 300ms linear 0s;
+}
+
+.event_item .media .media-body h5:hover {
   color: #ea2c58;
-} */
+}
 
 .event_item .media .media-body p {
   margin-bottom: 10px;
