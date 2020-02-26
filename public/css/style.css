@@ -1135,12 +1135,12 @@ button:focus {
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 15px;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
-.causes_item .causes_text h4:hover {
+/* .causes_item .causes_text h4:hover {
   color: #ea2c58;
-}
+} */
 
 .causes_item .causes_text p {
   font-size: 14px;
